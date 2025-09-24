@@ -71,11 +71,15 @@
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tutaitungtatungtang&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tutaitungtatungtang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tutaitungtatungtang&show_icons=true&locale=en&theme=tokyonight" alt="tutaitungtatungtang" /></p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tutaitungtatungtang&theme=tokyonight&hide_border=true&date_format=j%20M[%20Y]&v=1" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tutaitungtatungtang&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=tutaitungtatungtang&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
